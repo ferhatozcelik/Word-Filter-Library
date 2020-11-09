@@ -1,5 +1,8 @@
 package com.ferhatozcelik.wordfilter;
 
+
+/// Ferhat ÖZÇELİK
+/// https://ferhatozcelik.github.io/
 import android.app.Activity;
 import android.util.Log;
 
