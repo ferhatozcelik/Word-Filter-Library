@@ -15,6 +15,7 @@ public class NetworkController {
     public NetworkController(Context context) {
         mcontext=context;
         this.mRequestQueue = getRequestQueue();
+        
     }
 
     public static synchronized  NetworkController getInstance(Activity context){
